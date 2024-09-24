@@ -1,0 +1,62 @@
+ => 
+[[32m#<City:0x00007f6794616a68[0m
+  id: [34m[1m1[0m,
+  name: [31m[1m"[0m[31mSteuberchester[0m[31m[1m"[0m,
+  zip_code: [31m[1m"[0m[31m71384-0192[0m[31m[1m"[0m,
+  created_at: Tue, 24 Sep 2024 11:29:03.771303000 UTC +00:00,
+  updated_at: Tue, 24 Sep 2024 11:29:03.771303000 UTC +00:00[32m>[0m,
+ [32m#<City:0x00007f6795f05a10[0m
+  id: [34m[1m2[0m,
+  name: [31m[1m"[0m[31mPingberg[0m[31m[1m"[0m,
+  zip_code: [31m[1m"[0m[31m73375-0941[0m[31m[1m"[0m,
+  created_at: Tue, 24 Sep 2024 11:29:03.774278000 UTC +00:00,
+  updated_at: Tue, 24 Sep 2024 11:29:03.774278000 UTC +00:00[32m>[0m,
+ [32m#<City:0x00007f6795f05790[0m
+  id: [34m[1m3[0m,
+  name: [31m[1m"[0m[31mStoltenbergshire[0m[31m[1m"[0m,
+  zip_code: [31m[1m"[0m[31m97557[0m[31m[1m"[0m,
+  created_at: Tue, 24 Sep 2024 11:29:03.776393000 UTC +00:00,
+  updated_at: Tue, 24 Sep 2024 11:29:03.776393000 UTC +00:00[32m>[0m,
+ [32m#<City:0x00007f6795f05510[0m
+  id: [34m[1m4[0m,
+  name: [31m[1m"[0m[31mNorth Caren[0m[31m[1m"[0m,
+  zip_code: [31m[1m"[0m[31m19447-7289[0m[31m[1m"[0m,
+  created_at: Tue, 24 Sep 2024 11:29:03.778431000 UTC +00:00,
+  updated_at: Tue, 24 Sep 2024 11:29:03.778431000 UTC +00:00[32m>[0m,
+ [32m#<City:0x00007f6795f05290[0m
+  id: [34m[1m5[0m,
+  name: [31m[1m"[0m[31mNorth Judefurt[0m[31m[1m"[0m,
+  zip_code: [31m[1m"[0m[31m11298-4742[0m[31m[1m"[0m,
+  created_at: Tue, 24 Sep 2024 11:29:03.780265000 UTC +00:00,
+  updated_at: Tue, 24 Sep 2024 11:29:03.780265000 UTC +00:00[32m>[0m,
+ [32m#<City:0x00007f6795f05010[0m
+  id: [34m[1m6[0m,
+  name: [31m[1m"[0m[31mSouth Evangelina[0m[31m[1m"[0m,
+  zip_code: [31m[1m"[0m[31m91100[0m[31m[1m"[0m,
+  created_at: Tue, 24 Sep 2024 11:29:03.782037000 UTC +00:00,
+  updated_at: Tue, 24 Sep 2024 11:29:03.782037000 UTC +00:00[32m>[0m,
+ [32m#<City:0x00007f679570fc98[0m
+  id: [34m[1m7[0m,
+  name: [31m[1m"[0m[31mSouth Burl[0m[31m[1m"[0m,
+  zip_code: [31m[1m"[0m[31m79063-5863[0m[31m[1m"[0m,
+  created_at: Tue, 24 Sep 2024 11:29:03.783857000 UTC +00:00,
+  updated_at: Tue, 24 Sep 2024 11:29:03.783857000 UTC +00:00[32m>[0m,
+ [32m#<City:0x00007f679570fb58[0m
+  id: [34m[1m8[0m,
+  name: [31m[1m"[0m[31mColliermouth[0m[31m[1m"[0m,
+  zip_code: [31m[1m"[0m[31m60404-4296[0m[31m[1m"[0m,
+  created_at: Tue, 24 Sep 2024 11:29:03.785625000 UTC +00:00,
+  updated_at: Tue, 24 Sep 2024 11:29:03.785625000 UTC +00:00[32m>[0m,
+ [32m#<City:0x00007f679570f8d8[0m
+  id: [34m[1m9[0m,
+  name: [31m[1m"[0m[31mKshlerinstad[0m[31m[1m"[0m,
+  zip_code: [31m[1m"[0m[31m91580[0m[31m[1m"[0m,
+  created_at: Tue, 24 Sep 2024 11:29:03.787436000 UTC +00:00,
+  updated_at: Tue, 24 Sep 2024 11:29:03.787436000 UTC +00:00[32m>[0m,
+ [32m#<City:0x00007f679570f3d8[0m
+  id: [34m[1m10[0m,
+  name: [31m[1m"[0m[31mHermanton[0m[31m[1m"[0m,
+  zip_code: [31m[1m"[0m[31m26500[0m[31m[1m"[0m,
+  created_at: Tue, 24 Sep 2024 11:29:03.789306000 UTC +00:00,
+  updated_at: Tue, 24 Sep 2024 11:29:03.789306000 UTC +00:00[32m>[0m,
+ [31m[1m"[0m[31m...[0m[31m[1m"[0m] 
